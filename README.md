@@ -12,4 +12,5 @@ The best visualizations on the given queries is given in the notebook
 Maps showing the distribution of restaurants
 
 
-https://github.com/muatif123/Zomato_Geospatial_Analysis/blob/main/images/Geospatial_Analysis_Zomato%20-%20Jupyter%20Notebook.mhtml
+![download](https://user-images.githubusercontent.com/41074452/156033958-eecd6221-a173-4833-bd34-83739fccbe1b.png)
+
